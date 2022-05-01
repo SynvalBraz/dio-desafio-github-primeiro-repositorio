@@ -3,3 +3,4 @@
 >
 > ### Links Úteis
 > [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/) 
+> [Biblioteca LP](https://www.w3schools.com/)
